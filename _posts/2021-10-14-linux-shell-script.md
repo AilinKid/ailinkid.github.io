@@ -1,6 +1,6 @@
 ---
 layout: post
-title: linux shell script
+title: [Notes] linux shell script basic usage
 categories: shell
 description: about some usage about linux shell script, mainly about awk, sed and simple script with database (MySQL / TiDB).
 keywords: shell, linux
